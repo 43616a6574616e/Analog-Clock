@@ -1,3 +1,3 @@
 # Analog-Clock
 
-App: https://43616a6574616e.github.io/Analog-Clock/
+App: https://kaj3tan.github.io/Analog-Clock/ 😁
